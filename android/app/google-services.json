@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218921576771",
+    "project_id": "gestion-depence",
+    "storage_bucket": "gestion-depence.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218921576771:android:2851b34089c063523067f6",
+        "android_client_info": {
+          "package_name": "com.example.gestion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7f1rtajRglA7y9hSQnnCqPRrnfToTh0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
